@@ -1,0 +1,27 @@
+{
+  "name": "tdd-gerenciador-financeiro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/** test/** --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arleidt/tdd-gerenciador-financeiro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arleidt/tdd-gerenciador-financeiro/issues"
+  },
+  "homepage": "https://github.com/Arleidt/tdd-gerenciador-financeiro#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "23.6.0"
+  }
+}
